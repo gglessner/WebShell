@@ -1,0 +1,11 @@
+# WebShell.py Requirements
+
+# Core Python libraries (included in standard library)
+# urllib.parse - URL encoding/decoding
+# urllib.request - HTTP requests
+# urllib.error - HTTP error handling
+# argparse - Command line argument parsing
+# socket - Network operations
+
+# No external dependencies required
+# This script uses only Python standard library modules
